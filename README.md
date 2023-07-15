@@ -4,7 +4,7 @@
 <div>
 <h3 align="left"><strong>Sobre mi</strong></h3>
 <p>
-    Ingeniero egresado el año 2022, 
+    Ingeniero titulado el año 2022, 
     actualmente mi interes es entrar al campo laboral en el área de desarrollo web,
     por lo que, mi enfoque es adquirir conocimientos de fullstack para ampliar mis habilidades.
 </p>
